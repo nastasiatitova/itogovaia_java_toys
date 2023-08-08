@@ -1,0 +1,10 @@
+1,YUla
+2,Dog
+1,YUla
+5,Car
+3,Cat
+1,YUla
+1,YUla
+2,Dog
+6,Beer
+2,Dog
